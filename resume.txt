@@ -1,0 +1,98 @@
+James (Jim) Stagg
+
+jstagg@gmail.com | 770-710-3459 | http://jstagg.github.io
+6397 Stanbrough Ln Dallas GA 30157
+
+App Dev Team Manager, Architect, DevOps Practitioner, NoSQL/RDBMS Manager, 👁❤️Perl! (and yes, I still code!)
+My first priority is availability. If systems aren’t available, value can’t be delivered. I’ve made a career of being accountable, even for things I did not create. I look out for my team, and that includes making sure my boss remains employed. While I love leading teams, I get just as much fulfillment putting my hands on a keyboard to write a script, drawing out ideas on a dry erase board or presenting in front of a large crowd!
+
+Experience
+
+S.P. Richards Company
+  Applications Development Manager
+    October 2015 to Present
+    • Managed major systems testing as part of rebuilding business continuance capabilities
+    • Assumed management of database team (Oracle, SQL Server, MongoDB, PostgreSQL)
+    • Migrated over 50% of order line volume to new OMS
+    • Handled a doubling of order volume due to pandemic buying patterns
+    • Drove 95% of deployments to become non-impacting, daily events (was 15% in 2018)
+    • Picked to lead our “sustaining/reliability” team 
+    • Architected a promising solution that turned a top 20 customer into a top 5 customer
+    • Added management responsibility for Sterling OMS architecture to the team
+    • Guided ASP.NET development team to deliver major sales order entry & editing additions
+    • Adopted Kanban process for visualizing team workflow
+    • Managed Classic ASP team to deliver order entry/edit functionality for two major new channels of business
+    • Assumed management responsibility for CI/CD infrastructure
+    • Created incident monitoring with PagerDuty via Perl, Bash and Python
+    • Created APM monitoring with Datadog via Perl, Bash and Python
+    • Created & matured key systems monitoring with Perl, Bash and Python
+    • Created application management scripts with Ansible, Bash and Perl
+    • Created & maintained CI/CD pipelines in Jenkins
+
+  Application Architect
+    November 2010 to October 2015
+    • Designed/implemented Promising Module in Sterling OMS
+    • Designed/implemented Pricing & Inventory modules in Sterling OMS
+    • Designed/implemented History Data module in Sterling OMS
+    • Stabilized deployment process (with Bash scripts, GitLab as SCM and Ant for builds)
+    • Presented at IBM Smarter Commerce Global Summit
+
+  Application Administrator
+    June 2006 to October 2010
+    • Implemented Purchasing and master data loading modules in Sterling OMS
+    • Implemented PROS pricing & analytics solutions (as Jitterbit ETL developer)
+    • Created extensive monitoring/automated recovery scripts in Perl and Batch for Axapta
+    • Led Axapta 4/Sterling OMS project (as PM, tester, admin and occasional X++ developer)
+    • Integrated Horizon subsidiary network into SPR network (as systems architect)
+
+  Senior Windows System Administrator
+    January 2001 to June 2006
+    • Led migration from Window NT 4.0 Domain to Active Directory project (as PM, architect and tester)
+    • Managed legacy OMS migration from DG/UX to HP-UX (as PM and load tester)
+    • Created & tested SPR's initial Windows system disaster recovery plan
+    • Administered SPR's first IBM AS/400 systems
+
+Dealergain.com
+  Systems Administrator
+    September 2000 to December 2000
+    • Windows/Linux sysadmin support for startup Dealergain.com (lost funding in Dec. 2000)
+
+Expo.net
+  Unix Systems Administrator/Web Developer
+    April 1999 to August 2000
+    • Worked one-on-one with clients to create custom web solutions (as HTML web developer)
+    • Supported Apache HTTPD and Perl on FreeBSD and Linux web servers
+
+Sportime International
+  Systems Analyst/Graphic Designer
+    July 1994 to March 1999
+    • Created first web sites for all Sportime catalogs
+    • Created e-commerce site with Apache HTTPD, PHP & PostgreSQL
+    • Supported AS/400 and Novell Netware servers
+    • Created pre-press coordinator position for annual cost savings of $90k
+
+Fulton County Daily Report
+  Art Director/Macintosh Systems Manager
+    September 1990 to June 1994
+    • Promoted to department head to manage daily paper production and special projects
+    • Coordinated daily newspaper production and art directed photo shoots for special projects
+    • Implemented new Macintosh-based publishing system (with QuarkXPress, Adobe Photoshop & Illustrator)
+
+Education
+Embry-Riddle Aeronautical University
+Bachelor of Science in Technical Management, Logistics Concentration
+Graduated Summa Cum Laude (3.963)
+
+Certifications
+AWS Certified Cloud Practitioner
+
+Personal Time
+I take personal responsibility for exploring new technologies in my downtime, like:
+Docker builds with GitHub CI integration to deploy Node.js machine into DockerHub
+Docker build with automated data import into Redis with Go web service front-end
+Docker build with automated data import into MongoDB with Node.js web service front-end
+Docker build with automated data import into CouchDB (hey, it has its own web service front-end!)
+Kubernetes deployment 
+
+Tech Details
+DevOps practitioner, Application Reliability Team Manager, Kanban believer, Lean practitioner, Sterling Order Management Architect, Redhat JBoss, Redhat HornetQ JMS, VMware, PagerDuty, Datadog, Ansible, MongoDB, Oracle RDBMS, SQL Server, PostgreSQL, Apache ServiceMix, Apache JMeter, IIS, Java, Perl, Bash, Docker, Jenkins, GitLab, GitHub, Apache HTTPD, Nginx, Redhat Enterprise Linux, CentOS, Ubuntu, Debian, FreeBSD, OpenBSD, Axapta, Microsoft Dynamics AX, IT Operations, Disaster Recovery, Business Continuance, Kubernetes
