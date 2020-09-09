@@ -11,23 +11,22 @@ Experience
 S.P. Richards Company
   Applications Development Manager
     October 2015 to Present
-    • Managed major systems testing as part of rebuilding business continuance capabilities
-    • Assumed management of database team (Oracle, SQL Server, MongoDB, PostgreSQL)
-    • Migrated over 50% of order line volume to new OMS
-    • Handled a doubling of order volume due to pandemic buying patterns
+    • Rebuilding business continuance capabilities as systems testing coordinator
+    • Integrated DBAs into team (Oracle, Exadata, SQL Server, MongoDB & PostgreSQL platforms)
+    • Moved 50% of order line volume to new OMS
     • Drove 95% of deployments to become non-impacting, daily events (was 15% in 2018)
-    • Picked to lead our “sustaining/reliability” team 
-    • Architected a promising solution that turned a top 20 customer into a top 5 customer
-    • Added management responsibility for Sterling OMS architecture to the team
+    • Volunteered to lead our “sustaining/reliability” team 
+    • Turned a top 20 customer into a top 5 customer by designing a new promising solution
     • Guided ASP.NET development team to deliver major sales order entry & editing additions
-    • Adopted Kanban process for visualizing team workflow
-    • Managed Classic ASP team to deliver order entry/edit functionality for two major new channels of business
-    • Assumed management responsibility for CI/CD infrastructure
-    • Created incident monitoring with PagerDuty via Perl, Bash and Python
-    • Created APM monitoring with Datadog via Perl, Bash and Python
-    • Created & matured key systems monitoring with Perl, Bash and Python
-    • Created application management scripts with Ansible, Bash and Perl
+    • Evangelized and adopted Kanban process for visualizing team workflow
+    • Led Classic ASP team to deliver order entry/edit functionality for two major new channels of business
+    • Wrote incident monitoring with PagerDuty via Perl, Bash and Python
+    • Visualized sales KPIs for wide viewing with Datadog via Perl, Bash and Python
+    • Developed & matured key systems monitoring with Perl, Bash and Python
+    • Scripted application management scripts with Ansible, Bash and Perl
     • Created & maintained CI/CD pipelines in Jenkins
+    • Reduced costs and risks through proving system viability evidence via JMeter load testing
+
 
   Application Architect
     November 2010 to October 2015
